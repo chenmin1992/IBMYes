@@ -2,6 +2,11 @@
 
 IBM Cloud: https://cloud.ibm.com/
 
+安装脚本
+```shell
+curl -LO https://github.com/chenmin1992/IBMYes/raw/master/install.sh && bash install.sh
+```
+
 本脚本经过优化, 去掉很多步骤, 注册完账号直接进入云命令行搭建
 
 搭建期间只需输入一个纯英文小写字母的名字即可

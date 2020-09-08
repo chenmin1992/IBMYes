@@ -209,7 +209,7 @@ cloudflare官网：https://www.cloudflare.com/
 
 打开和复制脚本
 
-```
+```javascript
 addEventListener(
 	"fetch",event => {
 		let url=new URL(event.request.url);
